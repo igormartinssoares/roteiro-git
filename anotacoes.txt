@@ -1,0 +1,3 @@
+- git status → ver estado dos arquivos
+- git add .  → adicionar tudo ao staging
+- git log --oneline → ver histórico resumido
