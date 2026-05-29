@@ -1,6 +1,6 @@
 ## Objetivo
 Este projeto tem como objetivo aprender, praticar e fixar o uso do
-Git como ferramenta essencial no fluxo DevOps.2
+Git como ferramenta essencial no fluxo DevOps.
 
 ## Instalação
 
