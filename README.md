@@ -36,5 +36,7 @@ Este projeto tem como objetivo aprender e praticar o uso do Git no fluxo de trab
 2. Faça suas alterações e commit
 3. Abra um Pull Request descrevendo o que foi feito
 4. Aguarde a revisão antes do merge
+5. Para desfazer uma alteração não commitada:
+- git restore "nome-do-arquivo"
 
 > Projeto criado para praticar Git no fluxo DevOps.
