@@ -2,9 +2,22 @@
 Este projeto tem como objetivo aprender e praticar o uso do Git no fluxo de trabalho de desenvolvimento.
 
 ## Instalação
-1. Clone o repositório
-2. Acesse a pasta do projeto
-3. Execute o projeto com o editor de sua preferência
+
+### Pre-requisitos
+- Git instalado (verifique com: git --version)
+- Conta no GitHub
+- Editor de codigo (recomendado: VS Code)
+
+### Passo a passo
+1. Clone o repositorio:
+   git clone https://github.com/USUARIO/roteiro-git-devops.git
+2. Acesse a pasta do projeto:
+   cd roteiro-git-devops
+3. Abra no editor:
+   code .
+4. Configure sua identidade (se ainda não fez):
+   git config --global user.name "Seu Nome"
+   git config --global user.email "email@exemplo.com"
 
 ## Uso
 - Use `git add` para preparar arquivos
