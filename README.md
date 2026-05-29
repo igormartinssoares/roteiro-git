@@ -1,6 +1,5 @@
 ## Objetivo
-Este projeto tem como objetivo aprender, praticar e fixar o uso do
-Git como ferramenta essencial no fluxo DevOps.
+Este projeto tem como objetivo explorar na prática os principais comandos do Git utilizados no dia a dia de desenvolvimento.
 
 ## Instalação
 
