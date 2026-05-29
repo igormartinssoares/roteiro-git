@@ -21,6 +21,8 @@ Este projeto tem como objetivo aprender e praticar o uso do Git no fluxo de trab
 - git diff            -> ver o que foi alterado antes de commitar
 - git log --oneline   -> ver historico resumido
 - git restore arquivo -> desfazer alteracao nao commitada
+- git config --global user.name "Seu Nome"  -> configurar identidade
+- git config --global user.email "email"    -> configurar e-mail
 
 ## Exemplos de Comandos
 
