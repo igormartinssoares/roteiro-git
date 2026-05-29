@@ -7,9 +7,20 @@ Este projeto tem como objetivo aprender e praticar o uso do Git no fluxo de trab
 3. Execute o projeto com o editor de sua preferência
 
 ## Uso
-- Use `git add` para preparar arquivos
-- Use `git commit` para salvar no histórico
-- Use `git push` para enviar ao repositório remoto
+
+### Ciclo basico do dia a dia
+1. Atualize sua branch antes de comecar: git pull
+2. Crie uma branch para sua tarefa: git switch -c feature/nome
+3. Faca suas alteracoes nos arquivos
+4. Adicione ao staging: git add .
+5. Salve no historico: git commit -m "tipo: descricao"
+6. Envie para o GitHub: git push
+
+### Comandos uteis no dia a dia
+- git status          -> ver estado atual dos arquivos
+- git diff            -> ver o que foi alterado antes de commitar
+- git log --oneline   -> ver historico resumido
+- git restore arquivo -> desfazer alteracao nao commitada
 
 ## Exemplos de Comandos
 
