@@ -16,3 +16,10 @@ Este projeto tem como objetivo aprender e praticar o uso do Git no fluxo de trab
 - `git init` → inicializa um repositório
 - `git status` → mostra o estado dos arquivos
 - `git log --oneline` → mostra o histórico resumido
+
+## Como Contribuir
+
+1. Crie uma branch com o nome da sua tarefa
+2. Faça suas alterações e commit
+3. Abra um Pull Request descrevendo o que foi feito
+4. Aguarde a revisão antes do merge
