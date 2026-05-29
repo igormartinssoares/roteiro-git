@@ -10,3 +10,9 @@ Este projeto tem como objetivo aprender e praticar o uso do Git no fluxo de trab
 - Use `git add` para preparar arquivos
 - Use `git commit` para salvar no histórico
 - Use `git push` para enviar ao repositório remoto
+
+## Exemplos de Comandos
+
+- `git init` → inicializa um repositório
+- `git status` → mostra o estado dos arquivos
+- `git log --oneline` → mostra o histórico resumido
